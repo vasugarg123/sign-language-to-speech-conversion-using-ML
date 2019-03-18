@@ -1,1 +1,1 @@
-# sign-language-to-speech-
+The main objective of this project is to recognize the gestures of the dumb person and converting them into voice.The camera captures the image and image is compared to a pre-trained dataset and the correct word is recognized.Once the word is obtaines then it is converted into speech via speaker or resberry pie.
